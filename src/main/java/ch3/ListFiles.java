@@ -42,7 +42,7 @@ public class ListFiles {
         } );
         System.out.println( "oldSchoolFiles " + Arrays.toString( oldSchoolFiles ) );
 
-     
+
         Files.newDirectoryStream( Paths.get( "./src/ch03" ), path -> path.toString().endsWith( ".java" ) ).forEach(
                 System.out::println );
     }
