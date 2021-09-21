@@ -1,23 +1,15 @@
 package ch4;
 
 public class Asset {
+    public enum AssetType {
+        BOND, STOCK
+    };
 
-    private final AssetType type;
+    public final AssetType type;
+    public final int value;
 
-    ;
-    private final int value;
-    public Asset(final AssetType assetType, final int assetValue) {
-        type = assetType;
-        value = assetValue;
+    public Asset( AssetType type, int value ) {
+        this.type = type;
+        this.value = value;
     }
-
-    public AssetType getType() {
-        return type;
-    }
-
-    public int getValue() {
-        return value;
-    }
-
-    public enum AssetType {BOND, STOCK}
 }
