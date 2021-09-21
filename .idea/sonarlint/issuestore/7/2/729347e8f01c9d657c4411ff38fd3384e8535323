@@ -1,0 +1,17 @@
+
+g
+java:S1854$"ERemove this useless assignment to local variable "nameOfPeopleByAge".(ğŞÇ¼şÿÿÿÿ8¿÷÷ÀÀ/
+a
+java:S1854!"?Remove this useless assignment to local variable "peopleByAge".(¥Èæİüÿÿÿÿ8À÷÷ÀÀ/
+\
+java:S1612"?Replace this lambda with method reference 'olderThan20_a::add'.(Ï”¢8ë¥÷ÀÀ/
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ì¥÷ÀÀ/
+R
+java:S1481!"0Remove this unused "peopleByAge" local variable.(¥Èæİüÿÿÿÿ8Æ÷÷ÀÀ/
+X
+java:S1481$"6Remove this unused "nameOfPeopleByAge" local variable.(ğŞÇ¼şÿÿÿÿ8Æ÷÷ÀÀ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸À¡8ñ¥÷ÀÀ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İË‰Ø8ò¥÷ÀÀ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šå£Ã8ò¥÷ÀÀ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô

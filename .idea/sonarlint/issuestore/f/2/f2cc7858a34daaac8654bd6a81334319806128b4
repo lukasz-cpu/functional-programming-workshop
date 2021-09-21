@@ -1,0 +1,18 @@
+
+‰
+java:S11302"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(·‹„8‘¯§ÁÀ/
+X
+java:S16123";Replace this lambda with method reference 'File::isHidden'.(Ÿõ–®8„å¦ÁÀ/
+o
+java:S6204?"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8³ÿ¦ÁÀ/
+J
+java:S1604%"(Make this anonymous inner class a lambda(µùÊçùÿÿÿÿ8¹ÿ¦ÁÀ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô
+a
+java:S2095!"DUse try-with-resources or close this "Stream" in a "finally" clause.( Øâ·8ÂÌ§ÁÀ/
+a
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(©éèÖ8ÂÌ§ÁÀ/
+a
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(øä¿Ï8ÁÌ§ÁÀ/
+o
+java:S2095."MUse try-with-resources or close this "DirectoryStream" in a "finally" clause.(¶Ä†şÿÿÿÿ8ÁÌ§ÁÀ/

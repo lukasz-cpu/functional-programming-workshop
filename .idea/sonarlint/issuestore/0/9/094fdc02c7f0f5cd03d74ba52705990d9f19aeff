@@ -1,0 +1,12 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÊƒÛúÿÿÿÿ8‘ÇðºÀ/
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(œ×¯·8’ÇðºÀ/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ•æ¯øÿÿÿÿ8“ÇðºÀ/
+a
+java:S16120"?Replace this lambda with method reference 'Character::isDigit'.(à‡Î¸ûÿÿÿÿ8˜ÇðºÀ/
+g
+java:S16121"EReplace this lambda with method reference 'IterateString::printChar'.(Æ¬æñýÿÿÿÿ8˜ÇðºÀ/
+a
+java:S16127"?Replace this lambda with method reference 'Character::isDigit'.(à‡Î¸ûÿÿÿÿ8šÇðºÀ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô

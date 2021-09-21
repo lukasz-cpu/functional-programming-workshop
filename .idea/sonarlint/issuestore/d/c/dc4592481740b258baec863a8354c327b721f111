@@ -1,0 +1,8 @@
+
+s
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(‡“ß±ûÿÿÿÿ8í×Î¾À/
+s
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(×´ü©úÿÿÿÿ8î×Î¾À/
+o
+java:S62044"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥8ğ×Î¾À/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆˆõô
