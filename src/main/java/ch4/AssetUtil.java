@@ -17,6 +17,21 @@ public class AssetUtil {
         );
 
 
+        System.out.println(totalBondValue(assets));
+        System.out.println(totalStockValue(assets));
+
+
+    }
+
+    public static int totalStockValue(final List<Asset> assets) {
+        return assets.stream().mapToInt(x -> x.getType() == Asset.AssetType.STOCK ? x.getValue() : 0).sum();
+
+    }
+
+    public static int totalBondValue(final List<Asset> assets){
+        return assets.stream()
+                .mapToInt(asset -> asset.getType() == Asset.AssetType.BOND ? asset.getValue() : 0)
+                .sum();
     }
 
 
