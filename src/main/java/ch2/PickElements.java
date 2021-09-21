@@ -11,7 +11,6 @@ import static ch2.Folks.friends;
 public class PickElements {
     public static void main(final String[] args) {
         {
-            // self-inflicted wound pattern...
             final List<String> startsWithN = new ArrayList<>();
             for (String name : friends) {
                 if (name.startsWith("N")) {
